@@ -1,38 +1,32 @@
-# create-svelte
+## About The Project
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Spectrum is a Web Application that is aimed at teaching users on the Autistic spectrum how to identify and express emotion.
 
-## Creating a project
+This project is for my term 4 Major Interaction Development 300. Spectrum uses AI to detect facial expressions of the user.
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+## Built With
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+Spectrum is a web application built using:
 
-> Note: the `@next` is temporary
+ - SvelteKit
+ - Firebase
+ - Face-api.js
+ 
+ ## Installation
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. Clone the repo
 
-```bash
-npm run dev
+- git clone https://github.com/ZKanengoni/Spectrum.git
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+2. Then open with your code editor and run npm install && npm run dev
 
-## Building
+3. Open your browser in localhost and change the view to a mobile view
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
 
-```bash
-npm run build
-```
+## Contact
 
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+Zivaiishe Kanengoni - 190187@virtualwindow.co.Zivaiishe
+
+Project Link: https://github.com/ZKanengoni/Spectrum
